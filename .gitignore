@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+*.tmp
+.svn/
+prebuilt/
+build/
+xcuserdata/
+build.log
+BuildDmg
